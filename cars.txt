@@ -8,11 +8,8 @@ fafas
 dfa
 afaffaffa
 a
-<<<<<<< HEAD
 10110110100101
-=======
 23
->>>>>>> 181eabe87c802387bec3262a0006e103107cfc85
 
 
 TOYOTA TURENO GT-APEX(AE86)
